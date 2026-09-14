@@ -5,7 +5,7 @@ A simple Python calculator created to demonstrate Python debugging techniques.
 ## Project Structure
 
 ```text
-t5-ide/
+t6-ide/
 │
 ├── src/
 │   └── calculator/
